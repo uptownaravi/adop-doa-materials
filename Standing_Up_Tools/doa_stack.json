@@ -113,7 +113,7 @@
                         "AMI"
                     ]
                 },
-                "InstanceType": "m4.xlarge",
+                "InstanceType": "m5.xlarge",
                 "KeyName": {
                     "Ref": "KeyName"
                 },
